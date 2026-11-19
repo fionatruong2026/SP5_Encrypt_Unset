@@ -1,0 +1,152 @@
+{
+  "Rows": {
+    "Count": 43
+  },
+  "Cols": {
+    "Count": 39
+  },
+  "AttachInfos": {
+    "1,1": {
+      "ListViewInfo": {
+        "Name": "リストビュー1",
+        "TableName": "小数据量_2页",
+        "RowIndex": 1,
+        "ColumnIndex": 1,
+        "RowCount": 6,
+        "ColumnCount": 37,
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "2,1": {
+      "NameUsedInJavaScript": "文本",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "文本",
+        "GUID": "696cb78a-0f5f-476c-a74b-cded497743c6"
+      }
+    },
+    "2,5": {
+      "NameUsedInJavaScript": "整数",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "整数",
+        "GUID": "a9946529-68c7-48d1-be42-3381a8e655f0"
+      }
+    },
+    "2,9": {
+      "NameUsedInJavaScript": "小数",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "小数",
+        "GUID": "290641ed-6312-4f86-ba3d-9d1dac97999e"
+      }
+    },
+    "2,13": {
+      "NameUsedInJavaScript": "日期",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "日期",
+        "GUID": "7121871a-1e4e-4a9a-8a83-f69b3b39ac8f"
+      }
+    },
+    "2,17": {
+      "NameUsedInJavaScript": "时间",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "时间",
+        "GUID": "8d12126e-df65-4fd8-93ab-412360ba30bc"
+      }
+    },
+    "2,21": {
+      "NameUsedInJavaScript": "是_否",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "是_否",
+        "GUID": "2699ec3a-d61f-4053-b97b-38e79d8f97e6"
+      }
+    },
+    "2,25": {
+      "NameUsedInJavaScript": "用户",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "用户",
+        "GUID": "37af180a-c541-4474-b68b-c32e64b8cca2"
+      }
+    },
+    "2,29": {
+      "NameUsedInJavaScript": "图片",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "图片",
+        "GUID": "c896050a-40ff-4e04-a0a6-8f71372ced30"
+      }
+    },
+    "2,33": {
+      "NameUsedInJavaScript": "附件",
+      "BindingInfo": {
+        "TableName": "小数据量_2页",
+        "ColumnName": "附件",
+        "GUID": "a7e776cc-c419-4fb0-a5a4-83c0fdc92e72"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,1,1,4",
+    "2,1,1,4",
+    "1,5,1,4",
+    "2,5,1,4",
+    "1,9,1,4",
+    "2,9,1,4",
+    "1,13,1,4",
+    "2,13,1,4",
+    "1,17,1,4",
+    "2,17,1,4",
+    "1,21,1,4",
+    "2,21,1,4",
+    "1,25,1,4",
+    "2,25,1,4",
+    "1,29,1,4",
+    "2,29,1,4",
+    "1,33,1,5",
+    "2,33,1,5",
+    "3,1,4,37"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//lQI7ojhKWdHdN/F4wNLy3qojwJ6TaF/KrnNSM6SFx/udqCH2KMsVxcAEeu6E2gXY5BMD6N/ZubiJIwFDZ7MLpfISWJLv4rWXqxge41rJO0+gHXMhzIwQv163HvY6d8Tm3mHzTlK8Z4P6OfGQODkLft1TRSKeFIvOK+JOtLjgxMGzUXCF4bLTtEhykS588apvokirncWL3DutzeL+9yEqsPVA4zOeHNm9QxHBC0sDSKH0vhBQHZPsSRS8pOpGAAq7U7lyilROlp7C1xNN52fM154m1ZCeYQlCPg/FAtUTYyrOk+cuiJouMxUHKGfd/PGZG2Py582PRdKJYElzfnFMV15cWFq69/YwDd2IvSxPJLDl5E8oXSpPo6W0yo7f1qwSy4bggUtMpMwCPl27HdI2YL1XFdpbBc77/ioka1bzCz9AG5IlnDvL1qtM6+lEjRC4zn3Nf3xroxj2v5P3Ilco2tCr2ZmhcVBhNmCvE/X9yEvH6yXvQ2kvvT0sYPGgFfTP6jpEvsvm/bJ8SYAxQGIfpXHZRoAXdh7tQjxd9B5UKixyL1fET42Uye6W9Q871rE7X6HFnbNICy7c46aGM7KcM1YH8X6RdCVGxPq5hgyeJ5ePfnWafCpX6NCWr6jOXNFqIP8Sc7b7X6HmF/lQy/2yVk86M0mMLM47coLMBcVc54RgxMQg+UdbCrVooDiJJS9mp9bUGJOO9bV0RnqQzUJeT0xabELDAlc1db0mdtiHElSsYA4OTN7QQbuXvNK4Uyf22JVnqaFO1u9JpGsaZhn6OPZS37bZFjy8IsQ7hdPnYtXiimbsmCInyR2TjOqhs9+0wxvLcPegxG+pEBZWSsMBQpZLvtWWmaQRkNjSwa9u7lgnSq1LctepMkR8LVUxTfS/k8imatvv7B7Dz03ySa3Szg==|920
